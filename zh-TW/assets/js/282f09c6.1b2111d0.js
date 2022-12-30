@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[9064],{1381:e=>{e.exports=JSON.parse('{"permalink":"/zh-TW/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"\u90e8\u843d\u683c","blogTitle":"\u90e8\u843d\u683c"}')}}]);
