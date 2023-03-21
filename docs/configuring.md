@@ -11,8 +11,7 @@ pnpm config set store-dir /path/to/.pnpm-store
 ```
 
 If no store is configured, then pnpm will automatically create a store on the
-same drive. If you need pnpm to work across multiple hard drives or filesystems,
-please read [the FAQ].
+same drive. If you need pnpm to work across multiple hard drives or filesystems, please read [the FAQ].
 
 Furthermore, pnpm uses the same configuration that npm uses for doing
 installations. If you have a private registry and npm is configured to work with
